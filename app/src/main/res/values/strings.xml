@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyMate</string>
+    <string name="shortcut_add_quest_short">Tambah Quest</string>
+    <string name="shortcut_add_quest_long">Buat quest baru di StudyMate</string>
+    <string name="deadline_channel_name">Pengingat Deadline Quest</string>
+    <string name="deadline_channel_description">Notifikasi quest yang deadline-nya kurang dari tiga hari</string>
+</resources>

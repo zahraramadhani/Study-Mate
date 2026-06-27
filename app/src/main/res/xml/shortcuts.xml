@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="add_quest"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_add_quest"
+        android:shortcutShortLabel="@string/shortcut_add_quest_short"
+        android:shortcutLongLabel="@string/shortcut_add_quest_long">
+        <intent
+            android:action="id.zahra.studymate.ADD_QUEST"
+            android:targetPackage="id.zahra.studymate"
+            android:targetClass="id.zahra.studymate.MainActivity" />
+    </shortcut>
+</shortcuts>

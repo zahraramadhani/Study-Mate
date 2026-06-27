@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StudyMate" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/studymate_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Theme.StudyMate" parent="Base.Theme.StudyMate" />
+
+    <!-- Blue launch background prevents a white flash before the first custom splash frame. -->
+    <style name="Theme.StudyMate.Starting" parent="Theme.StudyMate">
+        <item name="android:windowBackground">@color/studymate_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/studymate_blue</item>
+    </style>
+</resources>
