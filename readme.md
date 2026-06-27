@@ -1,5 +1,8 @@
 # StudyMate Quest ⚔️🏆
 
+[![Download APK](https://img.shields.io/badge/Download-APK%20Rilis-blue?style=for-the-badge&logo=android)](https://github.com/zahraramadhani/Study-Mate/releases/download/v1.0.0/studymate-quest-v1.0.0.apk)
+[![GitHub Release](https://img.shields.io/badge/GitHub-Release%20Page-darkgreen?style=for-the-badge&logo=github)](https://github.com/zahraramadhani/Study-Mate/releases/latest)
+
 **StudyMate Quest** adalah aplikasi manajemen tugas (Quest Board) pintar untuk Android yang digabungkan dengan gamifikasi RPG (Role-Playing Game). Setiap tugas kuliah atau catatan harian Anda dikemas sebagai "Quest" yang menantang. Selesaikan tugas Anda, dapatkan XP, naikkan level, kumpulkan koin, dan kembangkan karakter virtual pendamping Anda!
 
 Aplikasi ini didesain unik dengan antarmuka dinamis yang digambar secara penuh secara programmatik (*custom canvas layout*) untuk memastikan performa yang cepat dan bebas lag tanpa XML layout yang berat.
